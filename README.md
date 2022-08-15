@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Mateusz, nice to meet You!
+I am a UX designer & a web developer from Poland.  I love helping people, 🤝 hanging out with friends, 👋 running 🏃 & good coffee ☕
+
+take a look at my portfolio!
+https://matb85.github.io/portfolio/
 
 <!--
 **Matb85/Matb85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
