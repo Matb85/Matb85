@@ -1,5 +1,8 @@
 # About Me
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-bis-185bb1230/)
+[![Static Badge](https://img.shields.io/badge/My-Portfolio-blue)](https://matb85.github.io/#selected-works)
+
 **Hello!**
 
 I'm Mateusz Bis, a dedicated and versatile **Full Stack Software Engineer** with a robust background in both development and design.
@@ -16,7 +19,12 @@ With a **proficient command of English**, I excel in collaborating with internat
 
 I am excited about the possibilities that lie ahead and am always eager to take on new challenges that push the boundaries of technology and design. Please [feel invited to visiti my web portfolio](https://matb85.github.io/#selected-works) and look at some of my work.
 
+# My stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matb85)](https://github.com/anuraghazra/github-readme-stats)
+
 # Links
 
-- [LinkedIn profile](https://www.linkedin.com/in/mateusz-bis-185bb1230/)
+
+- [LinkedIn profile]()
 - [Portfolio](https://matb85.github.io/#selected-works)
