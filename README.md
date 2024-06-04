@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-bis-185bb1230/)
 [![Static Badge](https://img.shields.io/badge/My-Portfolio-blue)](https://matb85.github.io/#selected-works)
+[![Static Badge](https://img.shields.io/badge/My-Cerifications-orange)](https://github.com/Matb85/matb85.github.io/tree/master/public/certificates)
 
 **Hello!**
 
@@ -17,7 +18,7 @@ I am also a dedicated student of [Computer Science at AGH University of Science 
 
 With a **proficient command of English**, I excel in collaborating with international teams and clients, ensuring clear and effective communication. My blend of technical prowess, design skills, and entrepreneurial spirit positions me uniquely in the tech landscape, enabling me to deliver exceptional results in every endeavor.
 
-I am excited about the possibilities that lie ahead and am always eager to take on new challenges that push the boundaries of technology and design. Please [feel invited to visiti my web portfolio](https://matb85.github.io/#selected-works) and look at some of my work.
+I am excited about the possibilities that lie ahead and am always eager to take on new challenges that push the boundaries of technology and design. Please [feel invited to visit my web portfolio](https://matb85.github.io/#selected-works) to look at some of my work and [browse my certificates here](https://github.com/Matb85/matb85.github.io/tree/master/public/certificates).
 
 # My stats
 
@@ -28,3 +29,4 @@ I am excited about the possibilities that lie ahead and am always eager to take 
 
 - [LinkedIn profile]()
 - [Portfolio](https://matb85.github.io/#selected-works)
+- [Certifications](https://github.com/Matb85/matb85.github.io/tree/master/public/certificates)
