@@ -18,6 +18,8 @@ I am also a dedicated student of [Computer Science at AGH University of Science 
 
 With a **proficient command of English**, I excel in collaborating with international teams and clients, ensuring clear and effective communication. My blend of technical prowess, design skills, and entrepreneurial spirit positions me uniquely in the tech landscape, enabling me to deliver exceptional results in every endeavor.
 
+After work I love running (as my profile picture suggests), inline & ice skating, skiing, mountain biking, flying FPV drones and photography. As of right now I am interested in learning machine learning and [becoming a member of the mountain volunteer rescue service](https://www.gopr.pl/)
+
 I am excited about the possibilities that lie ahead and am always eager to take on new challenges that push the boundaries of technology and design. Please [feel invited to visit my web portfolio](https://matb85.github.io/#selected-works) to look at some of my work and [browse my certificates here](https://github.com/Matb85/matb85.github.io/tree/master/public/certificates).
 
 # My stats
