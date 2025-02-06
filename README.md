@@ -6,7 +6,7 @@
 
 **Hello!**
 
-I'm Mateusz Bis, since **2019** a dedicated **Full Stack Software Engineer** with a robust background in both development and design.
+I'm Mateusz Bis, a dedicated **Full Stack Software Engineer** since **2019** with a robust background in both development and design.
 
 In my free time I love running (as my profile picture suggests), I also practice inline & ice skating, skiing, mountain biking, flying FPV drones and photographing. As of right now, I'm interested in becoming a member of [the mountain volunteer rescue service](https://www.gopr.pl/)
 
