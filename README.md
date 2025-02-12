@@ -23,9 +23,11 @@ Currently maintained projects:
 - [Modular Slider](https://github.com/Matb85/modular-slider)
 - [Photo Editor](https://github.com/Matb85/PhotoEditor)
 
-Coding tasks:
+Coding assigments:
 - [Elevator Simulator](https://github.com/Matb85/elevator-simulator)
 - [AWS IAM policy parsing](https://github.com/Matb85/aws-iam-parsing)
+- [Darwin Simulator](https://github.com/Matb85/PO_2024_PN1530_BIS) (in polish)
+- [Acoustic vibrations of a material layer](https://github.com/Matb85/projekt-rrir) (in polish)
 
 Past projects:
 - [ShorterCSS](https://github.com/Matb85/shortercss)
