@@ -16,8 +16,24 @@ I'm excited about the possibilities that lie ahead and am always eager to take o
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matb85)](https://github.com/anuraghazra/github-readme-stats)
 
+# My open source work
+
+Currently maintained projects:
+- [Components Pack](https://github.com/Matb85/components-pack)
+- [Modular Slider](https://github.com/Matb85/modular-slider)
+- [Photo Editor](https://github.com/Matb85/PhotoEditor)
+
+Coding tasks:
+- [Elevator Simulator](https://github.com/Matb85/elevator-simulator)
+- [AWS IAM policy parsing](https://github.com/Matb85/aws-iam-parsing)
+
+Past projects:
+- [ShorterCSS](https://github.com/Matb85/shortercss)
+- [Gulp ShorterCSS](https://github.com/Matb85/gulp-shortercss)
+- [XAPI-node](https://github.com/Matb85/xapi-node)
+
 # Links
 
-- [LinkedIn profile]()
+- [LinkedIn profile](https://www.linkedin.com/in/mateusz-bis-185bb1230/)
 - [Portfolio](https://matb85.github.io/#selected-works)
 - [Certifications](https://github.com/Matb85/matb85.github.io/tree/master/public/certificates)
