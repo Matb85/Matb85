@@ -19,21 +19,21 @@ Feel invited to visit my [web portfolio](https://matb85.github.io/#selected-work
 # My open source work
 
 Currently maintained projects:
-- [Components Pack](https://github.com/Matb85/components-pack)
-- [Modular Slider](https://github.com/Matb85/modular-slider)
-- [Photo Editor](https://github.com/Matb85/PhotoEditor)
+- [Components Pack](https://github.com/Matb85/components-pack): Typescript, Svelte, Vue, Astro
+- [Modular Slider](https://github.com/Matb85/modular-slider): Typescript
+- [Photo Editor](https://github.com/Matb85/PhotoEditor): Typescript, Vue
 
 Coding assigments:
-- [Elevator Simulator](https://github.com/Matb85/elevator-simulator)
-- [AWS IAM policy parsing](https://github.com/Matb85/aws-iam-parsing)
-- [Darwin Simulator](https://github.com/Matb85/PO_2024_PN1530_BIS) (in polish)
-- [Acoustic vibrations of a material layer](https://github.com/Matb85/projekt-rrir) (in polish)
+- [Elevator Simulator](https://github.com/Matb85/elevator-simulator): Typescript, React
+- [AWS IAM policy parsing](https://github.com/Matb85/aws-iam-parsing): Golang
+- [Darwin Simulator](https://github.com/Matb85/PO_2024_PN1530_BIS): Java (in polish)
+- [Acoustic vibrations of a material layer](https://github.com/Matb85/projekt-rrir): C# (in polish)
 
 Past projects:
-- [Eman](https://github.com/Matb85/eman) - Entreprise management app
-- [ShorterCSS](https://github.com/Matb85/shortercss) - tool for obfuscating/minifying CSS selectors
-- [Gulp ShorterCSS](https://github.com/Matb85/gulp-shortercss) - ShorterCSS as a Gulp plugin
-- [XAPI-node](https://github.com/Matb85/xapi-node) - improved version of [peterszombati/xapi-node](https://github.com/peterszombati/xapi-node)
+- [Eman](https://github.com/Matb85/eman): Golang, Vue - Entreprise management app
+- [ShorterCSS](https://github.com/Matb85/shortercss): Typescript - tool for obfuscating/minifying CSS selectors
+- [Gulp ShorterCSS](https://github.com/Matb85/gulp-shortercss): Typescript - ShorterCSS as a Gulp plugin
+- [XAPI-node](https://github.com/Matb85/xapi-node): Typescript - improved version of [peterszombati/xapi-node](https://github.com/peterszombati/xapi-node)
 
 # Links
 
