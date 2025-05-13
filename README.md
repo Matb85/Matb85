@@ -8,7 +8,7 @@
 
 I'm Mateusz Bis, a dedicated **Full Stack Software Engineer** since **2019** with a robust background in both development and design.
 
-In my free time I love running (as my profile picture suggests), I also practice inline & ice skating, skiing, mountain biking and photographing. As of right now, I'm a candidate for [the mountain volunteer rescue service](https://www.gopr.pl/) and I'm interested in becoming a mountain rescuer.
+In my free time I love running (as my profile picture suggests), I also practice inline & ice skating, skiing, mountain biking and photographing. Additionaly, I'm a member of [the mountain volunteer rescue service](https://www.gopr.pl/), currently I'm training to become a certified volunteer mountain rescuer.
 
 I'm excited about the possibilities that lie ahead and am always eager to take on new challenges. Please [feel invited to visit my web portfolio](https://matb85.github.io/#selected-works) to look at some of my work and [browse my certificates here](https://github.com/Matb85/matb85.github.io/tree/master/public/certificates).
 
