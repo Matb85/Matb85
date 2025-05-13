@@ -24,6 +24,7 @@ Currently maintained projects:
 - [Photo Editor](https://github.com/Matb85/PhotoEditor)
 
 Coding assigments:
+- [Entreprise management app](https://github.com/Matb85/eman)
 - [Elevator Simulator](https://github.com/Matb85/elevator-simulator)
 - [AWS IAM policy parsing](https://github.com/Matb85/aws-iam-parsing)
 - [Darwin Simulator](https://github.com/Matb85/PO_2024_PN1530_BIS) (in polish)
