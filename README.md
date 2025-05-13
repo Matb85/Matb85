@@ -30,10 +30,10 @@ Coding assigments:
 - [Acoustic vibrations of a material layer](https://github.com/Matb85/projekt-rrir) (in polish)
 
 Past projects:
-- [Entreprise management app](https://github.com/Matb85/eman)
-- [ShorterCSS](https://github.com/Matb85/shortercss)
-- [Gulp ShorterCSS](https://github.com/Matb85/gulp-shortercss)
-- [XAPI-node](https://github.com/Matb85/xapi-node)
+- [Eman](https://github.com/Matb85/eman) - Entreprise management app
+- [ShorterCSS](https://github.com/Matb85/shortercss) - tool for obfuscating/minifying CSS selectors
+- [Gulp ShorterCSS](https://github.com/Matb85/gulp-shortercss) - ShorterCSS as a Gulp plugin
+- [XAPI-node](https://github.com/Matb85/xapi-node) - improved version of [peterszombati/xapi-node](https://github.com/peterszombati/xapi-node)
 
 # Links
 
