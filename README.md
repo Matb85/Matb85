@@ -26,8 +26,11 @@ Currently maintained projects:
 Coding assigments:
 - [Elevator Simulator](https://github.com/Matb85/elevator-simulator): Typescript, React
 - [AWS IAM policy parsing](https://github.com/Matb85/aws-iam-parsing): Golang
+
+Chosen works from my Computer [Science studies at AGH UST](https://www.informatyka.agh.edu.pl/en/):
 - [Darwin Simulator](https://github.com/Matb85/PO_2024_PN1530_BIS): Java (in polish)
 - [Acoustic vibrations of a material layer](https://github.com/Matb85/projekt-rrir): C# (in polish)
+- [Air Pollution API](https://github.com/Matb85/erlang-elixir-agh-2025): Erlang + Elixir
 
 Past projects:
 - [Eman](https://github.com/Matb85/eman): Golang, Vue - Entreprise management app
