@@ -8,8 +8,6 @@
 
 I'm Mateusz Bis, a dedicated **Full Stack Software Engineer** since **2019** with a robust background in both development and design.
 
-In my free time I love running (as my profile picture suggests), I also practice inline & ice skating, skiing, mountain biking and photographing!
-
 Feel invited to visit my [web portfolio](https://matb85.github.io), where I showcase some of my work. Also, feel free to browse my [certificates here](https://github.com/Matb85/matb85.github.io/tree/master/public/certificates).
 
 # My stats
