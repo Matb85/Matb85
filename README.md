@@ -10,7 +10,7 @@ I'm Mateusz Bis, a dedicated **Full Stack Software Engineer** since **2019** wit
 
 In my free time I love running (as my profile picture suggests), I also practice inline & ice skating, skiing, mountain biking and photographing!
 
-Feel invited to visit my [web portfolio](https://matb85.github.io/#selected-works), where I showcase some of my work. Also, feel free to browse my [certificates here](https://github.com/Matb85/matb85.github.io/tree/master/public/certificates).
+Feel invited to visit my [web portfolio](https://matb85.github.io), where I showcase some of my work. Also, feel free to browse my [certificates here](https://github.com/Matb85/matb85.github.io/tree/master/public/certificates).
 
 # My stats
 
@@ -34,6 +34,7 @@ Chosen works from my Computer [Science studies at AGH UST](https://www.informaty
 
 Past projects:
 - [Eman](https://github.com/Matb85/eman): Golang, Vue - Entreprise management app
+- [OceanPeace](https://github.com/Matb85/ocean-peace): Kotlin, Svelte - Digital wellbeing mobile app
 - [ShorterCSS](https://github.com/Matb85/shortercss): Typescript - tool for obfuscating/minifying CSS selectors
 - [Gulp ShorterCSS](https://github.com/Matb85/gulp-shortercss): Typescript - ShorterCSS as a Gulp plugin
 - [XAPI-node](https://github.com/Matb85/xapi-node): Typescript - improved version of [peterszombati/xapi-node](https://github.com/peterszombati/xapi-node)
